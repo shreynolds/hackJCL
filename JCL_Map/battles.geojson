@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Battle of Cannae",
+	"year" : "216 BCE",
+	"description" : "Hannibal obliterates Romans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.135,
+          41.302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Battle of Zama",
+	"year" : "202 BCE",
+	"description" : "Scipio defeats Hannibal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.283998864,
+          36.108999564 
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Battle of Pharsallus",
+	"year" : "48 BCE",
+	"description" : "Caesar defeats Pompey in Civil War"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22,
+          31
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Battle of Philippi",
+	"year" : "42 BCE",
+	"description" : "Marc Antony and Octavian defeat Brutus and Cassius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2864,
+          41.0131
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Battle of Actium",
+	"year" : "31 BCE",
+	"description" : "Octavian and Agrippa defeat Antony and Cleopatra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.736497054,
+          38.933996264
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Battle of Alexandria",
+	"year" : "30 BCE",
+	"description" : "Rome annexes Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.95527,
+          31.21564
+        ]
+      }
+    },  ]
+}

@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Troy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.23666572,
+          39.954496182 
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Rome"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+        "name": "Rome/Alba Longa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51320,
+          41.87941 
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Carthage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.33295,
+          36.86259 
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Corinth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.93224,
+          37.93864 
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Athens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.72754,
+          37.98381 
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "name": "Venusia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.81542,
+          40.96077 
+        ]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Brundisium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.94176,
+          40.63273
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Ephesus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.341944,
+          37.941111
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Pergamon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.184167,
+          39.1325
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Constantinople"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.955556,
+         41.013889
+        ]
+      }
+    }]
+}

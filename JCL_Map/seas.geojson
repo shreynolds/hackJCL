@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adriatic Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6005859375,
+          42.97250158602597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ionian Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.80859375,
+          38.13455657705411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.453125,
+          43.45291889355465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mediterranean Sea (Mare Nostrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.10546875,
+          34.52466147177172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aegean Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3125,
+          38.47939467327645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Tyrrhenian Sea"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.041015625,
+          40.04443758460856
+        ]
+      }
+    }
+  ]
+}

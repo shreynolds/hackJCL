@@ -1,0 +1,34 @@
+#map {
+    width: 100%; height: 100%;
+}
+
+/*Info for the info box*/
+.info {
+    padding: 10px 8px;
+    font: 19px Arial, Helvetica, sans-serif;
+    color: #555555;
+    background: #f4f4f4;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+
+/* Info for the legend*/
+.legend {
+    font: 18px Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    color: #555;
+}
+
+/* The boxes in the legend */
+.legend i {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-right: 8px;
+    opacity: 1.0;
+}
+
+/*Making the checkboxes bigger*/
+input[type="checkbox"]{
+    transform:scale(1.6, 1.6);
+}
