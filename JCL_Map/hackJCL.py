@@ -18,8 +18,7 @@ if __name__ == "__main__":
         citiesGeojson = f.read()
 
 
-    # The header and beginning text for the map
-    #  make sure to cite the leaflet things
+    # The header, beginning text, and info for the map
     map_start = """<html>
       <head>
        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
@@ -270,11 +269,7 @@ if __name__ == "__main__":
     };
     legend.addTo(map);
     
-    
-    
-        
-        
-            
+
             
             }; //end of window.onload
 
